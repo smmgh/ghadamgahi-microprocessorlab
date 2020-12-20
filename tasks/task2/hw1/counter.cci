@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:51945948
+NODE:I LEVEL:0 LINE:24 "D:\cvavr\inc\mega16.h"
+NODE:V LEVEL:0 LINE:28 "counter -> R4,R5"
+NODE:V LEVEL:0 LINE:29 "numbers -> RAM:????"
+NODE:F LEVEL:0 LINE:31 "timer1_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:43 "main(void)"
